@@ -193,5 +193,6 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
+branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
